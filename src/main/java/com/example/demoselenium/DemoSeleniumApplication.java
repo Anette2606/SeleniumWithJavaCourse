@@ -41,8 +41,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.By;
 
 
-import java.time.Duration;
-import java.util.ArrayList;
+
 
 @SpringBootApplication
 public class DemoSeleniumApplication {
